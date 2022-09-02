@@ -11,23 +11,24 @@
     "@babel/core": "^7.15.0",
     "@babel/plugin-transform-runtime": "^7.15.0",
     "@babel/preset-env": "^7.15.0",
-    "@babel/runtime": "^7.15.3",
-    "babel-loader": "^8.2.2",
-    "http-server": "^0.11.1",
-    "webpack-cli": "^4.10.0",
-    "webpack-pwa-manifest": "^4.3.0",
-    "workbox-webpack-plugin": "^6.2.4"
+    "@babel/runtime": "^7.15.3"
   },
   "dependencies": {
+    "babel": "^6.23.0",
+    "babel-loader": "^8.2.5",
     "code-mirror-themes": "^1.0.0",
     "concurrently": "^7.3.0",
     "css-loader": "^6.7.1",
     "html-webpack-plugin": "^5.5.0",
-    "idb": "^6.1.2",
+    "http-server": "^14.1.1",
+    "idb": "^7.0.2",
     "nodemon": "^2.0.19",
     "source-map-loader": "^4.0.0",
     "style-loader": "^3.3.1",
     "webpack": "^5.74.0",
-    "webpack-dev-server": "^4.10.1"
+    "webpack-cli": "^4.10.0",
+    "webpack-dev-server": "^4.10.1",
+    "webpack-pwa-manifest": "^4.3.0",
+    "workbox-webpack-plugin": "^6.5.4"
   }
 }
